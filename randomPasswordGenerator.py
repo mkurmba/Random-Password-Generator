@@ -3,6 +3,11 @@ from graphics import *
 from random import randrange
 from time import *
 
+"""
+Created on Wed Jan 2 2022
+@author: Miksam Kurumbang
+"""
+
 
 def window():
     win = GraphWin("Random Password Generator", 600, 600)
